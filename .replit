@@ -19,10 +19,6 @@ args = "Install Dependencies and Run Judo Article Generator"
 task = "workflow.run"
 args = "judo_article"
 
-[[workflows.workflow.tasks]]
-task = "workflow.run"
-args = "preview_judo_article"
-
 [[workflows.workflow]]
 name = "Install Dependencies and Run Judo Article Generator"
 author = "agent"
@@ -50,21 +46,6 @@ task = "packager.installForAll"
 [[workflows.workflow.tasks]]
 task = "shell.exec"
 args = "pip install openpyxl pandas selenium nltk spacy rdflib webdriver-manager pillow && python -m spacy download en_core_web_sm && python judo_article_generator.py"
-
-[[workflows.workflow]]
-name = "preview_judo_article"
-author = "agent"
-
-[workflows.workflow.metadata]
-agentRequireRestartOnSave = false
-
-[[workflows.workflow.tasks]]
-task = "packager.installForAll"
-
-[[workflows.workflow.tasks]]
-task = "shell.exec"
-args = "grip judo_clubs_san_jose.md 0.0.0.0:5000 --title \"Judo Clubs in San Jose\" -b"
-waitForPort = 5000
 
 [deployment]
 run = ["sh", "-c", "pip install selenium selenium-wire pandas pillow spacy nltk rdflib pygithub webdriver-manager oauth2client gspread && python -m spacy download en_core_web_sm && python judo_article_generator.py"]

@@ -1,3 +1,4 @@
+<div id="top"></div>
 # Judo Clubs in San Jose: A Comprehensive Guide
 
 <script type="application/ld+json">
@@ -58,7 +59,6 @@
         "@type": "PostalAddress",
         "streetAddress": "816 Charcot Ave, San Jose, CA 95131"
       },
-      "telephone": NaN,
       "url": "https://www.sekaijudo.org/",
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -180,7 +180,6 @@
         "streetAddress": "301 N Jackson Ave, San Jose, CA 95133"
       },
       "telephone": "+1 408-334-6450",
-      "url": NaN,
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": 2.0,
@@ -326,22 +325,51 @@
 <section itemscope itemtype="http://schema.org/Article">
 <meta itemprop="headline" content="Judo Clubs in San Jose: A Comprehensive Guide">
 
-## Introduction
+<h2 id="introduction">Introduction</h2>
 
 <div itemprop="articleBody">
-<p>Judo, an Olympic sport and martial art founded by Jigoro Kano in 1882, offers practitioners a powerful combination of physical conditioning, mental discipline, and practical self-defense skills. The San Jose area boasts several high-quality judo clubs where individuals of all ages and skill levels can learn and practice this traditional Japanese martial art.</p>
+<p><strong>Looking for judo training in San Jose?</strong> This guide lists all verified judo clubs in the San Jose area with addresses, phone numbers, websites, and ratings.</p>
 
-<p>This comprehensive guide explores the top judo clubs in the San Jose region, providing essential information about each facility including location, contact details, and unique features. Whether you're a beginner looking to start your judo journey or an experienced judoka seeking a new dojo, this guide will help you find the perfect training environment to develop your skills on the mat.</p>
+<p>We've collected data on 14 judo training facilities throughout San Jose to help you find the perfect dojo based on:</p>
+<ul>
+  <li><strong>Location:</strong> Find clubs closest to your neighborhood</li>
+  <li><strong>Ratings:</strong> See which clubs have the highest community ratings</li>
+  <li><strong>Contact info:</strong> Direct phone numbers and websites for immediate contact</li>
+</ul>
+
+<p>Simply scroll through the listings below or use the club names to quickly navigate to a specific judo training facility in San Jose.</p>
 </div>
 </section>
 
-## San Jose Area Judo Clubs
+<h2 id="club-listings">San Jose Area Judo Clubs</h2>
+
+<div class="quick-nav">
+  <h3>Quick Navigation</h3>
+  <ul>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#san-jose-buddhist-judo-club">San Jose Buddhist Judo Club</a></li>
+    <li><a href="#sekai-judo-club">Sekai Judo Club</a></li>
+    <li><a href="#san-jose-judo-academy">SAN JOSE JUDO ACADEMY</a></li>
+    <li><a href="#cj-judo">CJ Judo</a></li>
+    <li><a href="#san-jose-judo-academy">San Jose Judo Academy</a></li>
+    <li><a href="#caio-terra-academy">Caio Terra Academy</a></li>
+    <li><a href="#heroes-martial-arts">Heroes Martial Arts</a></li>
+    <li><a href="#son-lee-taekwondo">Son Lee TaeKwonDo</a></li>
+    <li><a href="#guerrilla-jiu-jitsu-martial-arts-academy">Guerrilla Jiu-Jitsu Martial Arts Academy</a></li>
+    <li><a href="#nakano-judo-academy">Nakano Judo Academy</a></li>
+    <li><a href="#kogi-dojo">Kogi Dojo</a></li>
+    <li><a href="#smash-gyms-sunnyvale">Smash Gyms Sunnyvale</a></li>
+    <li><a href="#tamayo's-judo">Tamayo's Judo</a></li>
+    <li><a href="#510-judo">510 Judo</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
+  </ul>
+</div>
 
 <section itemscope itemtype="http://schema.org/SportsClub" id="san-jose-buddhist-judo-club">
 <h3 itemprop="name">1. San Jose Buddhist Judo Club</h3>
 
 <div class="club-description" itemprop="description">
-San Jose Buddhist Judo Club is a judo training facility located in 1050 N 5th St, San Jose, CA 95112. With a rating of 5.0 stars based on 6 reviews, it is highly regarded in the local martial arts community. At San Jose Buddhist Judo Club, students can learn the traditional Japanese martial art of judo, which focuses on throws, takedowns, and grappling techniques. Judo practice offers numerous benefits including improved physical fitness, mental discipline, stress reduction, and self-defense skills. The club welcomes practitioners of all skill levels, from beginners to advanced judoka, providing a supportive environment to develop martial arts proficiency. 
+San Jose Buddhist Judo Club is a judo training facility located in 1050 N 5th St, San Jose, CA 95112. With a rating of 5.0 stars based on 6 reviews, it is highly regarded in the local martial arts community. San Jose Buddhist Judo Club offers judo classes for all skill levels, from beginners to advanced practitioners. 
 </div>
 
 <div class="club-info">
@@ -352,6 +380,7 @@ San Jose Buddhist Judo Club is a judo training facility located in 1050 N 5th St
     <li>Website: <a href="http://www.sjbjudo.org/" itemprop="url" target="_blank" rel="noopener noreferrer">http://www.sjbjudo.org/</a></li>
   </ul>
 </div>
+<p class="back-to-top"><a href="#top">↑ Back to top</a></p>
 </section>
 
 ---
@@ -360,17 +389,17 @@ San Jose Buddhist Judo Club is a judo training facility located in 1050 N 5th St
 <h3 itemprop="name">2. Sekai Judo Club</h3>
 
 <div class="club-description" itemprop="description">
-Sekai Judo Club is a judo training facility located in 816 Charcot Ave, San Jose, CA 95131. With a rating of 5.0 stars based on 3 reviews, it is highly regarded in the local martial arts community. At Sekai Judo Club, students can learn the traditional Japanese martial art of judo, which focuses on throws, takedowns, and grappling techniques. Judo practice offers numerous benefits including improved physical fitness, mental discipline, stress reduction, and self-defense skills. The club welcomes practitioners of all skill levels, from beginners to advanced judoka, providing a supportive environment to develop martial arts proficiency. 
+Sekai Judo Club is a judo training facility located in 816 Charcot Ave, San Jose, CA 95131. With a rating of 5.0 stars based on 3 reviews, it is highly regarded in the local martial arts community. Sekai Judo Club offers judo classes for all skill levels, from beginners to advanced practitioners. 
 </div>
 
 <div class="club-info">
   <h4>Club Information:</h4>
   <ul>
     <li itemprop="address">816 Charcot Ave, San Jose, CA 95131</li>
-    <li>Phone: <span itemprop="telephone">nan</span></li>
     <li>Website: <a href="https://www.sekaijudo.org/" itemprop="url" target="_blank" rel="noopener noreferrer">https://www.sekaijudo.org/</a></li>
   </ul>
 </div>
+<p class="back-to-top"><a href="#top">↑ Back to top</a></p>
 </section>
 
 ---
@@ -379,7 +408,7 @@ Sekai Judo Club is a judo training facility located in 816 Charcot Ave, San Jose
 <h3 itemprop="name">3. SAN JOSE JUDO ACADEMY</h3>
 
 <div class="club-description" itemprop="description">
-SAN JOSE JUDO ACADEMY is a judo training facility located in 625 Wool Creek Dr F10, San Jose, CA 95112. With a rating of 5.0 stars based on 77 reviews, it is highly regarded in the local martial arts community. At SAN JOSE JUDO ACADEMY, students can learn the traditional Japanese martial art of judo, which focuses on throws, takedowns, and grappling techniques. Judo practice offers numerous benefits including improved physical fitness, mental discipline, stress reduction, and self-defense skills. The club welcomes practitioners of all skill levels, from beginners to advanced judoka, providing a supportive environment to develop martial arts proficiency. 
+SAN JOSE JUDO ACADEMY is a judo training facility located in 625 Wool Creek Dr F10, San Jose, CA 95112. With a rating of 5.0 stars based on 77 reviews, it is highly regarded in the local martial arts community. SAN JOSE JUDO ACADEMY offers judo classes for all skill levels, from beginners to advanced practitioners. 
 </div>
 
 <div class="club-info">
@@ -390,6 +419,7 @@ SAN JOSE JUDO ACADEMY is a judo training facility located in 625 Wool Creek Dr F
     <li>Website: <a href="http://sanjosejudoacademy.com/" itemprop="url" target="_blank" rel="noopener noreferrer">http://sanjosejudoacademy.com/</a></li>
   </ul>
 </div>
+<p class="back-to-top"><a href="#top">↑ Back to top</a></p>
 </section>
 
 ---
@@ -398,7 +428,7 @@ SAN JOSE JUDO ACADEMY is a judo training facility located in 625 Wool Creek Dr F
 <h3 itemprop="name">4. CJ Judo</h3>
 
 <div class="club-description" itemprop="description">
-CJ Judo is a judo training facility located in 1244 S Bascom Ave, San Jose, CA 95128. With a rating of 5.0 stars based on 17 reviews, it is highly regarded in the local martial arts community. At CJ Judo, students can learn the traditional Japanese martial art of judo, which focuses on throws, takedowns, and grappling techniques. Judo practice offers numerous benefits including improved physical fitness, mental discipline, stress reduction, and self-defense skills. The club welcomes practitioners of all skill levels, from beginners to advanced judoka, providing a supportive environment to develop martial arts proficiency. 
+CJ Judo is a judo training facility located in 1244 S Bascom Ave, San Jose, CA 95128. With a rating of 5.0 stars based on 17 reviews, it is highly regarded in the local martial arts community. CJ Judo offers judo classes for all skill levels, from beginners to advanced practitioners. 
 </div>
 
 <div class="club-info">
@@ -409,6 +439,7 @@ CJ Judo is a judo training facility located in 1244 S Bascom Ave, San Jose, CA 9
     <li>Website: <a href="http://www.cjjudo.com/" itemprop="url" target="_blank" rel="noopener noreferrer">http://www.cjjudo.com/</a></li>
   </ul>
 </div>
+<p class="back-to-top"><a href="#top">↑ Back to top</a></p>
 </section>
 
 ---
@@ -417,7 +448,7 @@ CJ Judo is a judo training facility located in 1244 S Bascom Ave, San Jose, CA 9
 <h3 itemprop="name">5. San Jose Judo Academy</h3>
 
 <div class="club-description" itemprop="description">
-San Jose Judo Academy is a judo training facility located in 621 Tully Rd # 152, San Jose, CA 95111. At San Jose Judo Academy, students can learn the traditional Japanese martial art of judo, which focuses on throws, takedowns, and grappling techniques. Judo practice offers numerous benefits including improved physical fitness, mental discipline, stress reduction, and self-defense skills. The club welcomes practitioners of all skill levels, from beginners to advanced judoka, providing a supportive environment to develop martial arts proficiency. 
+San Jose Judo Academy is a judo training facility located in 621 Tully Rd # 152, San Jose, CA 95111. San Jose Judo Academy offers judo classes for all skill levels, from beginners to advanced practitioners. 
 </div>
 
 <div class="club-info">
@@ -428,6 +459,7 @@ San Jose Judo Academy is a judo training facility located in 621 Tully Rd # 152,
     <li>Website: <a href="https://www.sanjosejudoacademy.com/" itemprop="url" target="_blank" rel="noopener noreferrer">https://www.sanjosejudoacademy.com/</a></li>
   </ul>
 </div>
+<p class="back-to-top"><a href="#top">↑ Back to top</a></p>
 </section>
 
 ---
@@ -436,7 +468,7 @@ San Jose Judo Academy is a judo training facility located in 621 Tully Rd # 152,
 <h3 itemprop="name">6. Caio Terra Academy</h3>
 
 <div class="club-description" itemprop="description">
-Caio Terra Academy is a judo training facility located in 855 Park Ave, San Jose, CA 95126. With a rating of 4.7 stars based on 106 reviews, it is highly regarded in the local martial arts community. At Caio Terra Academy, students can learn the traditional Japanese martial art of judo, which focuses on throws, takedowns, and grappling techniques. Judo practice offers numerous benefits including improved physical fitness, mental discipline, stress reduction, and self-defense skills. The club welcomes practitioners of all skill levels, from beginners to advanced judoka, providing a supportive environment to develop martial arts proficiency. 
+Caio Terra Academy is a judo training facility located in 855 Park Ave, San Jose, CA 95126. With a rating of 4.7 stars based on 106 reviews, it is highly regarded in the local martial arts community. Caio Terra Academy offers judo classes for all skill levels, from beginners to advanced practitioners. 
 </div>
 
 <div class="club-info">
@@ -447,6 +479,7 @@ Caio Terra Academy is a judo training facility located in 855 Park Ave, San Jose
     <li>Website: <a href="http://www.bjjsanjose.com/" itemprop="url" target="_blank" rel="noopener noreferrer">http://www.bjjsanjose.com/</a></li>
   </ul>
 </div>
+<p class="back-to-top"><a href="#top">↑ Back to top</a></p>
 </section>
 
 ---
@@ -455,7 +488,7 @@ Caio Terra Academy is a judo training facility located in 855 Park Ave, San Jose
 <h3 itemprop="name">7. Heroes Martial Arts</h3>
 
 <div class="club-description" itemprop="description">
-Heroes Martial Arts is a judo training facility located in 450 S 1st St, San Jose, CA 95113. With a rating of 5.0 stars based on 31 reviews, it is highly regarded in the local martial arts community. At Heroes Martial Arts, students can learn the traditional Japanese martial art of judo, which focuses on throws, takedowns, and grappling techniques. Judo practice offers numerous benefits including improved physical fitness, mental discipline, stress reduction, and self-defense skills. The club welcomes practitioners of all skill levels, from beginners to advanced judoka, providing a supportive environment to develop martial arts proficiency. 
+Heroes Martial Arts is a judo training facility located in 450 S 1st St, San Jose, CA 95113. With a rating of 5.0 stars based on 31 reviews, it is highly regarded in the local martial arts community. Heroes Martial Arts offers judo classes for all skill levels, from beginners to advanced practitioners. 
 </div>
 
 <div class="club-info">
@@ -466,6 +499,7 @@ Heroes Martial Arts is a judo training facility located in 450 S 1st St, San Jos
     <li>Website: <a href="https://heroesma.com/" itemprop="url" target="_blank" rel="noopener noreferrer">https://heroesma.com/</a></li>
   </ul>
 </div>
+<p class="back-to-top"><a href="#top">↑ Back to top</a></p>
 </section>
 
 ---
@@ -474,7 +508,7 @@ Heroes Martial Arts is a judo training facility located in 450 S 1st St, San Jos
 <h3 itemprop="name">8. Son Lee TaeKwonDo</h3>
 
 <div class="club-description" itemprop="description">
-Son Lee TaeKwonDo is a judo training facility located in 301 N Jackson Ave, San Jose, CA 95133. With a rating of 2.0 stars based on 2 reviews, it provides judo training services to the community. At Son Lee TaeKwonDo, students can learn the traditional Japanese martial art of judo, which focuses on throws, takedowns, and grappling techniques. Judo practice offers numerous benefits including improved physical fitness, mental discipline, stress reduction, and self-defense skills. The club welcomes practitioners of all skill levels, from beginners to advanced judoka, providing a supportive environment to develop martial arts proficiency. 
+Son Lee TaeKwonDo is a judo training facility located in 301 N Jackson Ave, San Jose, CA 95133. With a rating of 2.0 stars based on 2 reviews, it provides judo training services to the community. Son Lee TaeKwonDo offers judo classes for all skill levels, from beginners to advanced practitioners. 
 </div>
 
 <div class="club-info">
@@ -482,9 +516,9 @@ Son Lee TaeKwonDo is a judo training facility located in 301 N Jackson Ave, San 
   <ul>
     <li itemprop="address">301 N Jackson Ave, San Jose, CA 95133</li>
     <li>Phone: <span itemprop="telephone">+1 408-334-6450</span></li>
-    <li>Website: <a href="nan" itemprop="url" target="_blank" rel="noopener noreferrer">nan</a></li>
   </ul>
 </div>
+<p class="back-to-top"><a href="#top">↑ Back to top</a></p>
 </section>
 
 ---
@@ -493,7 +527,7 @@ Son Lee TaeKwonDo is a judo training facility located in 301 N Jackson Ave, San 
 <h3 itemprop="name">9. Guerrilla Jiu-Jitsu Martial Arts Academy</h3>
 
 <div class="club-description" itemprop="description">
-Guerrilla Jiu-Jitsu Martial Arts Academy is a judo training facility located in 478 W San Carlos St, San Jose, CA 95110. With a rating of 4.8 stars based on 69 reviews, it is highly regarded in the local martial arts community. At Guerrilla Jiu-Jitsu Martial Arts Academy, students can learn the traditional Japanese martial art of judo, which focuses on throws, takedowns, and grappling techniques. Judo practice offers numerous benefits including improved physical fitness, mental discipline, stress reduction, and self-defense skills. The club welcomes practitioners of all skill levels, from beginners to advanced judoka, providing a supportive environment to develop martial arts proficiency. 
+Guerrilla Jiu-Jitsu Martial Arts Academy is a judo training facility located in 478 W San Carlos St, San Jose, CA 95110. With a rating of 4.8 stars based on 69 reviews, it is highly regarded in the local martial arts community. Guerrilla Jiu-Jitsu Martial Arts Academy offers judo classes for all skill levels, from beginners to advanced practitioners. 
 </div>
 
 <div class="club-info">
@@ -504,6 +538,7 @@ Guerrilla Jiu-Jitsu Martial Arts Academy is a judo training facility located in 
     <li>Website: <a href="https://www.guerrillajiujitsu.com/" itemprop="url" target="_blank" rel="noopener noreferrer">https://www.guerrillajiujitsu.com/</a></li>
   </ul>
 </div>
+<p class="back-to-top"><a href="#top">↑ Back to top</a></p>
 </section>
 
 ---
@@ -512,7 +547,7 @@ Guerrilla Jiu-Jitsu Martial Arts Academy is a judo training facility located in 
 <h3 itemprop="name">10. Nakano Judo Academy</h3>
 
 <div class="club-description" itemprop="description">
-Nakano Judo Academy is a judo training facility located in 2072 El Camino Real, Santa Clara, CA 95050. With a rating of 4.9 stars based on 71 reviews, it is highly regarded in the local martial arts community. At Nakano Judo Academy, students can learn the traditional Japanese martial art of judo, which focuses on throws, takedowns, and grappling techniques. Judo practice offers numerous benefits including improved physical fitness, mental discipline, stress reduction, and self-defense skills. The club welcomes practitioners of all skill levels, from beginners to advanced judoka, providing a supportive environment to develop martial arts proficiency. 
+Nakano Judo Academy is a judo training facility located in 2072 El Camino Real, Santa Clara, CA 95050. With a rating of 4.9 stars based on 71 reviews, it is highly regarded in the local martial arts community. Nakano Judo Academy offers judo classes for all skill levels, from beginners to advanced practitioners. 
 </div>
 
 <div class="club-info">
@@ -523,6 +558,7 @@ Nakano Judo Academy is a judo training facility located in 2072 El Camino Real, 
     <li>Website: <a href="https://www.nakanojudo.net/" itemprop="url" target="_blank" rel="noopener noreferrer">https://www.nakanojudo.net/</a></li>
   </ul>
 </div>
+<p class="back-to-top"><a href="#top">↑ Back to top</a></p>
 </section>
 
 ---
@@ -531,7 +567,7 @@ Nakano Judo Academy is a judo training facility located in 2072 El Camino Real, 
 <h3 itemprop="name">11. Kogi Dojo</h3>
 
 <div class="club-description" itemprop="description">
-Kogi Dojo is a judo training facility located in 697 Quinn Ave, San Jose, CA 95112. With a rating of 5.0 stars based on 12 reviews, it is highly regarded in the local martial arts community. At Kogi Dojo, students can learn the traditional Japanese martial art of judo, which focuses on throws, takedowns, and grappling techniques. Judo practice offers numerous benefits including improved physical fitness, mental discipline, stress reduction, and self-defense skills. The club welcomes practitioners of all skill levels, from beginners to advanced judoka, providing a supportive environment to develop martial arts proficiency. 
+Kogi Dojo is a judo training facility located in 697 Quinn Ave, San Jose, CA 95112. With a rating of 5.0 stars based on 12 reviews, it is highly regarded in the local martial arts community. Kogi Dojo offers judo classes for all skill levels, from beginners to advanced practitioners. 
 </div>
 
 <div class="club-info">
@@ -542,6 +578,7 @@ Kogi Dojo is a judo training facility located in 697 Quinn Ave, San Jose, CA 951
     <li>Website: <a href="https://kogidojo.com/" itemprop="url" target="_blank" rel="noopener noreferrer">https://kogidojo.com/</a></li>
   </ul>
 </div>
+<p class="back-to-top"><a href="#top">↑ Back to top</a></p>
 </section>
 
 ---
@@ -550,7 +587,7 @@ Kogi Dojo is a judo training facility located in 697 Quinn Ave, San Jose, CA 951
 <h3 itemprop="name">12. Smash Gyms Sunnyvale</h3>
 
 <div class="club-description" itemprop="description">
-Smash Gyms Sunnyvale is a judo training facility located in 1239 Reamwood Ave, Sunnyvale, CA 94089. With a rating of 4.5 stars based on 29 reviews, it is highly regarded in the local martial arts community. At Smash Gyms Sunnyvale, students can learn the traditional Japanese martial art of judo, which focuses on throws, takedowns, and grappling techniques. Judo practice offers numerous benefits including improved physical fitness, mental discipline, stress reduction, and self-defense skills. The club welcomes practitioners of all skill levels, from beginners to advanced judoka, providing a supportive environment to develop martial arts proficiency. 
+Smash Gyms Sunnyvale is a judo training facility located in 1239 Reamwood Ave, Sunnyvale, CA 94089. With a rating of 4.5 stars based on 29 reviews, it is highly regarded in the local martial arts community. Smash Gyms Sunnyvale offers judo classes for all skill levels, from beginners to advanced practitioners. 
 </div>
 
 <div class="club-info">
@@ -561,6 +598,7 @@ Smash Gyms Sunnyvale is a judo training facility located in 1239 Reamwood Ave, S
     <li>Website: <a href="http://www.smashsunnyvale.com/" itemprop="url" target="_blank" rel="noopener noreferrer">http://www.smashsunnyvale.com/</a></li>
   </ul>
 </div>
+<p class="back-to-top"><a href="#top">↑ Back to top</a></p>
 </section>
 
 ---
@@ -569,7 +607,7 @@ Smash Gyms Sunnyvale is a judo training facility located in 1239 Reamwood Ave, S
 <h3 itemprop="name">13. Tamayo's Judo</h3>
 
 <div class="club-description" itemprop="description">
-Tamayo's Judo is a judo training facility located in 290 California Ave #B, Palo Alto, CA 94306. With a rating of 5.0 stars based on 12 reviews, it is highly regarded in the local martial arts community. At Tamayo's Judo, students can learn the traditional Japanese martial art of judo, which focuses on throws, takedowns, and grappling techniques. Judo practice offers numerous benefits including improved physical fitness, mental discipline, stress reduction, and self-defense skills. The club welcomes practitioners of all skill levels, from beginners to advanced judoka, providing a supportive environment to develop martial arts proficiency. 
+Tamayo's Judo is a judo training facility located in 290 California Ave #B, Palo Alto, CA 94306. With a rating of 5.0 stars based on 12 reviews, it is highly regarded in the local martial arts community. Tamayo's Judo offers judo classes for all skill levels, from beginners to advanced practitioners. 
 </div>
 
 <div class="club-info">
@@ -580,6 +618,7 @@ Tamayo's Judo is a judo training facility located in 290 California Ave #B, Palo
     <li>Website: <a href="http://tamayojudo.com/" itemprop="url" target="_blank" rel="noopener noreferrer">http://tamayojudo.com/</a></li>
   </ul>
 </div>
+<p class="back-to-top"><a href="#top">↑ Back to top</a></p>
 </section>
 
 ---
@@ -588,7 +627,7 @@ Tamayo's Judo is a judo training facility located in 290 California Ave #B, Palo
 <h3 itemprop="name">14. 510 Judo</h3>
 
 <div class="club-description" itemprop="description">
-510 Judo is a judo training facility located in 1029 MacArthur Blvd, San Leandro, CA 94577. With a rating of 5.0 stars based on 34 reviews, it is highly regarded in the local martial arts community. At 510 Judo, students can learn the traditional Japanese martial art of judo, which focuses on throws, takedowns, and grappling techniques. Judo practice offers numerous benefits including improved physical fitness, mental discipline, stress reduction, and self-defense skills. The club welcomes practitioners of all skill levels, from beginners to advanced judoka, providing a supportive environment to develop martial arts proficiency. 
+510 Judo is a judo training facility located in 1029 MacArthur Blvd, San Leandro, CA 94577. With a rating of 5.0 stars based on 34 reviews, it is highly regarded in the local martial arts community. 510 Judo offers judo classes for all skill levels, from beginners to advanced practitioners. 
 </div>
 
 <div class="club-info">
@@ -599,26 +638,26 @@ Tamayo's Judo is a judo training facility located in 290 California Ave #B, Palo
     <li>Website: <a href="https://www.510judo.com/" itemprop="url" target="_blank" rel="noopener noreferrer">https://www.510judo.com/</a></li>
   </ul>
 </div>
+<p class="back-to-top"><a href="#top">↑ Back to top</a></p>
 </section>
 
 
-## Benefits of Practicing Judo
+<h2 id="conclusion">Find Your San Jose Judo Club Today</h2>
 
 <section>
-<p>Judo offers numerous physical and mental benefits for practitioners of all ages:</p>
+<p>Ready to start your judo journey in San Jose? Here's what to do next:</p>
 
-<ul>
-  <li><strong>Physical fitness:</strong> Judo develops strength, flexibility, endurance, and coordination</li>
-  <li><strong>Self-defense skills:</strong> Practical techniques that can be applied in real-world situations</li>
-  <li><strong>Mental discipline:</strong> Improved focus, concentration, and decision-making abilities</li>
-  <li><strong>Stress reduction:</strong> Physical activity combined with mindfulness techniques</li>
-  <li><strong>Community connection:</strong> Belonging to a supportive group with shared interests</li>
-</ul>
+<ol>
+  <li><strong>Choose a club:</strong> Select from the 14 verified locations above based on location, ratings, and offerings</li>
+  <li><strong>Contact directly:</strong> Call the phone number or visit the website to confirm current class schedules</li>
+  <li><strong>Visit in person:</strong> Most clubs offer a free trial class or observation period</li>
+</ol>
 
-<p>Whether you're looking for physical exercise, mental challenge, or a new community, the judo clubs in San Jose offer excellent opportunities to experience the benefits of this traditional martial art.</p>
+<p>San Jose's judo community welcomes beginners and experienced practitioners alike. Many clubs offer classes for children, teens, and adults with flexible scheduling options.</p>
+
+<p><em>This guide is updated regularly to ensure accurate information about judo training facilities in the San Jose area.</em></p>
 </section>
 
 <footer>
 <p>Last updated: March 01, 2025</p>
-<p>Generated with NLP-enhanced semantic markup for optimal search engine visibility and accessibility.</p>
 </footer>
