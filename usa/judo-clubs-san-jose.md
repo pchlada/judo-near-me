@@ -221,5 +221,5 @@ With flexible scheduling options including evening and weekend classes, finding 
 ---
 
 *Last updated: March 01, 2025*  
-*© 2025 Judoshop.com*
+*© 2025 *
 [Judoshop.com](https://judoshop.com)
