@@ -18,3 +18,5 @@ This repository contains comprehensive documentation and discovery resources for
 ## Contributing
 
 Interested in contributing to this project? Feel free to submit pull requests with additional judo club information or corrections to existing content.
+
+© 2025 [Judoshop.com](https://www.judoshop.com/pages/judo-near-me?ref=github)
