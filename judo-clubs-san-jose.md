@@ -1137,6 +1137,6 @@ Tamayo's Judo is a premier martial arts training center located in 290 Californi
 <footer class="article-footer">
   <div class="footer-content">
     <p class="update-date">Last updated: March 01, 2025</p>
-    <p class="copyright-notice">© 2025 Judo Club Directory</p>
+    <p class="copyright-notice">© 2025 <a href="https://www.judoshop.com">Judohop.com</a></p>
   </div>
 </footer>
