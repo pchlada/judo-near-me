@@ -1,3 +1,21 @@
+# Only include README.md and country folders (usa, etc)
+# Exclude everything
+*
+
+# But allow these specific files and directories
+!.gitignore
+!README.md
+!usa/
+!usa/**
+!canada/
+!canada/**
+!uk/
+!uk/**
+!japan/
+!japan/**
+!australia/
+!australia/**
+
 # Python-generated files
 __pycache__/
 *.py[oc]
@@ -8,3 +26,31 @@ wheels/
 
 # Virtual environments
 .venv
+venv/
+env/
+
+# Replit-specific files
+.replit
+.pythonlibs/
+.upm/
+replit.nix
+.cache/
+.config/
+.local/
+.git-credentials
+.breakpoints
+.env
+.gitconfig
+poetry.lock
+pyproject.toml
+uv.lock
+
+# Excel data files and temp files
+attached_assets/
+temp/
+
+# Generator code
+*.py
+
+# Images folder (generated screenshots)
+images/
