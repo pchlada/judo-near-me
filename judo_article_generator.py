@@ -891,17 +891,21 @@ body {
             # Ensure the images directory exists
             os.makedirs(self.image_dir, exist_ok=True)
             
+            # Ensure the usa directory exists for country-specific content
+            os.makedirs("usa", exist_ok=True)
+            
             # Save each image to the images directory
             for filename, image in images.items():
                 image_path = os.path.join(self.image_dir, filename)
                 image.save(image_path, format='JPEG', quality=self.image_quality)
                 logger.info(f"Saved image: {image_path}")
             
-            # Save the markdown file with dash-separated filename
-            with open("judo-clubs-san-jose.md", 'w', encoding='utf-8') as f:
+            # Save the markdown file to the usa folder with dash-separated filename
+            markdown_path = os.path.join("usa", "judo-clubs-san-jose.md")
+            with open(markdown_path, 'w', encoding='utf-8') as f:
                 f.write(markdown_content)
             
-            logger.info("Successfully saved content to local directories")
+            logger.info(f"Successfully saved markdown article to {markdown_path}")
         except Exception as e:
             logger.error(f"Failed to save content locally: {str(e)}")
             raise
@@ -956,9 +960,14 @@ body {
             else:
                 # Save just the markdown file without images
                 try:
-                    with open("judo-clubs-san-jose.md", 'w', encoding='utf-8') as f:
+                    # Ensure the usa directory exists
+                    os.makedirs("usa", exist_ok=True)
+                    
+                    # Save to the usa folder
+                    markdown_path = os.path.join("usa", "judo-clubs-san-jose.md")
+                    with open(markdown_path, 'w', encoding='utf-8') as f:
                         f.write(markdown_content)
-                    logger.info("Successfully saved markdown article")
+                    logger.info(f"Successfully saved markdown article to {markdown_path}")
                 except Exception as e:
                     logger.error(f"Failed to save markdown file: {str(e)}")
                     raise
